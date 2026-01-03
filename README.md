@@ -4,6 +4,10 @@ A lightweight, responsive **Kanban Board** built using **HTML, CSS, and Vanilla 
 This project is ideal for beginners who want to understand how drag-and-drop interactions work without external libraries or frameworks.
 
 ---
+## Screenshots
+![Quiz Game Start Screen](https://github.com/vishalvermacore/Kanban-Board/blob/ee4cdf1fcf27f3bddd0f18bf12f576597fc553e2/Kanban_Board.png)
+
+---
 
 ## 📌 Features
 
